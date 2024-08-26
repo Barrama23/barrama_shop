@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068833062376",
+    "project_id": "barramashop",
+    "storage_bucket": "barramashop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068833062376:android:4a7790add003bee09a385d",
+        "android_client_info": {
+          "package_name": "com.example.barrama_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE7v-o2DK6wmZTZ2QBMiANnf_EpYl9aZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
